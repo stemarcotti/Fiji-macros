@@ -1,3 +1,4 @@
+// save all open images in a folder of your choice 
 dir = getDirectory("Choose output directory");
 ids=newArray(nImages);
 for (i=0;i<nImages;i++) {
